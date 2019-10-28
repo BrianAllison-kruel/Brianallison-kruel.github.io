@@ -1,7 +1,3 @@
-function setup() {
- createCanvas(10000, 10000);
-}
-
 // All the paths
 let paths = [];
 // Are we painting?
@@ -13,7 +9,7 @@ let current;
 let previous;
 
 function setup() {
-  createCanvas(720, 400);
+  createCanvas(10000, 4000);
   current = createVector(0,0);
   previous = createVector(0,0);
 };
