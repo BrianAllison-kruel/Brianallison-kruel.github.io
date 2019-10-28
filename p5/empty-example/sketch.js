@@ -1,5 +1,5 @@
 function setup() {
- createCanvas(10000, 1000);
+ createCanvas(1000, 1000);
 }
 
 // the snake is divided into small segments, which are drawn and edited on each 'draw' call
