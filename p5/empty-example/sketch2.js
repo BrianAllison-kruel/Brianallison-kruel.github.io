@@ -1,6 +1,5 @@
 function setup() 
-{  createCanvas(1000, 10000);  
-    noStroke(); 
+{  createCanvas(1000, 1000); 
 }
 function draw() 
 {  background(204, 226, 225); 
